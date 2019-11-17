@@ -4,7 +4,9 @@
 Raspberrypi 4 의 라이트 버전에 설치후
 
 rapberrypi login : pi
+
 Password : raspberry
+
 의 초기 암호 입력
 
 wget min7014.github.io/raspberrypi/files/2019/2019111801/sh
