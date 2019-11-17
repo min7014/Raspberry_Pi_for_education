@@ -9,7 +9,7 @@ Password : raspberry
 
 의 초기 암호 입력
 
-wget min7014.github.io/raspberrypi/files/2019/2019111801/sh
+wget min7014.github.io/raspberrypi/files/2019111801/sh
 
 sh 2019111801.sh
 
