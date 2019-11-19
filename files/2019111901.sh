@@ -101,7 +101,7 @@ echo    "***********************************************************************
 echo    "****** pip3 install --user --upgrade tensorflow  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-pip3 install --user --upgrade tensorflow # install in $HOME  
+sudo pip3 install --user --upgrade tensorflow # install in $HOME  
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
