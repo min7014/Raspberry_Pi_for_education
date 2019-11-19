@@ -28,7 +28,7 @@ echo    "***********************************************************************
 echo    "****** chrome brower "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-sudo apt-get install chromium -y #chrome brower
+sudo apt-get install chromium-browser -y #chrome brower
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
