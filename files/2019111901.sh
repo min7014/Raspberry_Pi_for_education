@@ -98,10 +98,10 @@ sudo apt upgrade -y #apt upgrade
 sleep 3  # wait
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
-echo    "****** pip3 install --user --upgrade tensorflow  -y  "  
+echo    "****** pip3 install --user --upgrade tensorflow  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-pip3 install --user --upgrade tensorflow  -y # install in $HOME  
+pip3 install --user --upgrade tensorflow # install in $HOME  
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
