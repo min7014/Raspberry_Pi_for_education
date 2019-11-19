@@ -10,6 +10,7 @@ Password : raspberry
 
 
 *이 스크립트는 한글과 크롬을 설치하는 기본세팅이다.
+
 wget min7014.github.io/raspberrypi/files/2019111801.sh
 
 sh 2019111801.sh
