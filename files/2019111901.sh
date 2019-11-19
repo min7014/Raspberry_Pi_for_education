@@ -61,7 +61,7 @@ echo    "***********************************************************************
 echo    "****** sudo apt install python3-dev python3-pip  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-sudo apt install python3-dev python3-pip 
+sudo apt install python3-dev python3-pip -y 
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
@@ -72,7 +72,7 @@ echo    "***********************************************************************
 echo    "****** sudo apt install libatlas-base-dev  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-sudo apt install libatlas-base-dev 
+sudo apt install libatlas-base-dev -y 
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
@@ -83,7 +83,7 @@ echo    "***********************************************************************
 echo    "****** sudo pip3 install -U virtualenv  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-sudo pip3 install -U virtualenv 
+sudo pip3 install -U virtualenv -y 
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
