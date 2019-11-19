@@ -109,7 +109,7 @@ sudo apt upgrade -y #apt upgrade
 sleep 3  # wait
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
-echo    "****** python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"  "  
+echo    "****** python3 -c 'import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))'  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
 python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"  
