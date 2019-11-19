@@ -107,6 +107,7 @@ sudo apt update -y #apt update
 sleep 3  # wait
 sudo apt upgrade -y #apt upgrade
 sleep 3  # wait
+python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 echo    "****** reboot "  
