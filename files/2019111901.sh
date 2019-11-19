@@ -90,7 +90,7 @@ echo    "***********************************************************************
 echo    "****** sudo pip3 install -U virtualenv  "  
 echo    "*******************************************************************************"
 sleep 3  # wait
-sudo pip3 install -U virtualenv -y 
+sudo pip3 install -U virtualenv
 sleep 3  # wait
 sudo apt update -y #apt update 
 sleep 3  # wait
