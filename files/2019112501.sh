@@ -1,3 +1,4 @@
+# apt update, apt upgrade, desktop, chromium-browser, fonts-nanum, ibus-hangul, rdesktop
 rm 2019111801.sh 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
@@ -18,7 +19,7 @@ sudo apt update -y #apt update
 sudo apt upgrade -y #apt upgrade 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
-echo    "****** chrome brower "  
+echo    "****** chromium-browser "  
 echo    "*******************************************************************************"
 sudo apt-get install chromium-browser -y #chrome brower
 sudo apt update -y #apt update 
