@@ -1,5 +1,5 @@
 # apt update, apt upgrade, desktop, chromium-browser, fonts-nanum, ibus-hangul, rdesktop
-rm 2019111801.sh 
+rm 2019112501.sh 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 echo    "****** apt update "  
