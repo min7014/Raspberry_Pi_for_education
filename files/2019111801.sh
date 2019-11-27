@@ -39,7 +39,7 @@ sudo apt update -y #apt update
 sudo apt upgrade -y #apt upgrade
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
-echo    "****** remmina  "  
+echo    "****** remmina "  
 echo    "*******************************************************************************"
 #sudo apt-get install rdesktop -y #rdesktop
 sudo apt install dirmngr -y
