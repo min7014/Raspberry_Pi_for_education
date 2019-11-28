@@ -20,3 +20,6 @@ sh 2019112906.sh
 #remmina 
 sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
 sh 2019112801.sh 
+sleep 10
+reboot 
+
