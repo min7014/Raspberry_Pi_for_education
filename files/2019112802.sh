@@ -11,6 +11,9 @@ sh 2019112903.sh
 #chromium-browser
 sudo wget min7014.github.io/raspberrypi/files/2019112904.sh 
 sh 2019112904.sh 
+#fonts-nanum 
+sudo wget min7014.github.io/raspberrypi/files/2019112905.sh 
+sh 2019112905.sh 
 #
 #sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
 #sh 2019112801.sh 
