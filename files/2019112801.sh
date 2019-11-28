@@ -5,3 +5,4 @@ sudo apt install remmina -y
 sudo apt install gnome-keyring -y
 sudo apt update -y #apt update 
 sudo apt upgrade -y #apt upgrade
+
