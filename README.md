@@ -25,7 +25,10 @@ sh 2019111901.sh
 
 
 
+
+
 *개별적으로
+
 #apt update
 
 sudo wget min7014.github.io/raspberrypi/files/2019112901.sh 
