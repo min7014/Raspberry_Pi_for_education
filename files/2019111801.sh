@@ -1,40 +1,25 @@
 rm 2019111801.sh -f 
-echo    "*******************************************************************************"
-echo    "*******************************************************************************"
-echo    "****** apt update "  
-echo    "*******************************************************************************"
-sudo apt update -y #apt update
-echo    "*******************************************************************************"
-echo    "*******************************************************************************"
-echo    "****** apt upgrade "  
-echo    "*******************************************************************************"
-sudo apt upgrade -y #apt upgrade 
-echo    "*******************************************************************************"
-echo    "*******************************************************************************"
-echo    "****** desktop "  
-echo    "*******************************************************************************"
-sudo apt-get install raspberrypi-ui-mods -y #desktop 
-sudo apt update -y #apt update 
-sudo apt upgrade -y #apt upgrade 
-echo    "*******************************************************************************"
-echo    "*******************************************************************************"
-echo    "****** chrome brower "  
-echo    "*******************************************************************************"
-sudo apt-get install chromium-browser -y #chrome brower
-sudo apt update -y #apt update 
-sudo apt upgrade -y #apt upgrade 
-echo    "*******************************************************************************"
-echo    "*******************************************************************************"
-echo    "****** fonts-nanum "  
-echo    "*******************************************************************************"
-sudo apt-get install fonts-nanum  -y #fonts-nanum
-sudo apt update -y #apt update 
-sudo apt upgrade -y #apt upgrade
-echo    "*******************************************************************************"
-echo    "*******************************************************************************"
-echo    "****** ibus-hangul  "  
-echo    "*******************************************************************************"
-sudo apt-get install ibus-hangul  -y #ibus-hangul 
-sudo apt update -y #apt update 
-sudo apt upgrade -y #apt upgrade
+#apt update 
+sudo wget min7014.github.io/raspberrypi/files/2019112901.sh 
+sh 2019112901.sh 
+#apt update
+sudo wget min7014.github.io/raspberrypi/files/2019112902.sh 
+sh 2019112902.sh 
+#desktop
+sudo wget min7014.github.io/raspberrypi/files/2019112903.sh 
+sh 2019112903.sh 
+#chromium-browser
+sudo wget min7014.github.io/raspberrypi/files/2019112904.sh 
+sh 2019112904.sh 
+#fonts-nanum 
+sudo wget min7014.github.io/raspberrypi/files/2019112905.sh 
+sh 2019112905.sh 
+#ibus-hangul
+sudo wget min7014.github.io/raspberrypi/files/2019112906.sh 
+sh 2019112906.sh 
+#remmina 
+sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
+sh 2019112801.sh 
+sleep 10
+reboot 
 
