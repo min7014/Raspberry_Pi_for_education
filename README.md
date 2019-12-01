@@ -73,7 +73,7 @@ sh 2019112801.sh
 
 
 
-
+#texlive
 sudo apt-get install texlive-full
 
 sudo apt-get install texmaker
