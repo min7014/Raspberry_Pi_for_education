@@ -70,3 +70,12 @@ sh 2019112906.sh
 sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
 
 sh 2019112801.sh 
+
+
+
+
+sudo apt-get install texlive-full
+
+sudo apt-get install texmaker
+
+
