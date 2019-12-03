@@ -52,4 +52,3 @@ sudo wget min7014.github.io/raspberrypi/files/2019120202.sh
 sh 2019120202.sh 
 sleep 10
 reboot 
-
