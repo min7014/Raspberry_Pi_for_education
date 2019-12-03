@@ -1,4 +1,28 @@
 rm 2019112802.sh -f
+echo    "*******************************************************************************"
+echo    "*******************************************************************************" 
+sleep 1 
+echo    "****** apt update"  
+sleep 1 
+echo    "****** apt upgrade"  
+sleep 1 
+echo    "****** desktop"  
+sleep 1 
+echo    "****** chromium-browser"   
+sleep 1 
+echo    "****** fonts-nanum"   
+sleep 1 
+echo    "****** ibus-hangul"   
+sleep 1 
+echo    "****** remmina"   
+sleep 1 
+echo    "****** texlive"   
+sleep 1 
+echo    "****** texmaker"   
+sleep 1 
+echo    "*******************************************************************************"
+echo    "*******************************************************************************"
+sleep 10
 #apt update 
 sudo wget min7014.github.io/raspberrypi/files/2019112901.sh 
 sh 2019112901.sh 
