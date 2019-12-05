@@ -20,6 +20,8 @@ echo    "****** texlive"
 sleep 1 
 echo    "****** texmaker"   
 sleep 1 
+echo    "****** onedrive"   
+sleep 1 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 sleep 10
@@ -49,8 +51,10 @@ sudo wget min7014.github.io/raspberrypi/files/2019120201.sh
 sh 2019120201.sh 
 #texmaker
 sudo wget min7014.github.io/raspberrypi/files/2019120202.sh 
-sh 2019120202.sh 
-sudo apt-get install onedrive -y
+sh 2019120202.sh
+#onedrive
+sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
+sh 2019120502.sh 
 # https://github.com/abraunegg/onedrive
 sleep 10
 reboot 
