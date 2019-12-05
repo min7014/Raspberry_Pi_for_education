@@ -16,11 +16,11 @@ echo    "****** ibus-hangul"
 sleep 1 
 echo    "****** remmina"   
 sleep 1 
+echo    "****** onedrive"   
+sleep 1 
 echo    "****** texlive"   
 sleep 1 
 echo    "****** texmaker"   
-sleep 1 
-echo    "****** onedrive"   
 sleep 1 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
