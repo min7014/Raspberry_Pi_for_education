@@ -56,5 +56,11 @@ sh 2019120202.sh
 sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
 sh 2019120502.sh 
 # https://github.com/abraunegg/onedrive
+#apt update 
+sudo wget min7014.github.io/raspberrypi/files/2019112901.sh 
+sh 2019112901.sh 
+#apt upgrade
+sudo wget min7014.github.io/raspberrypi/files/2019112902.sh 
+sh 2019112902.sh 
 sleep 10
 reboot 
