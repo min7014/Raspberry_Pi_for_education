@@ -50,7 +50,7 @@ sh 2019120201.sh
 #texmaker
 sudo wget min7014.github.io/raspberrypi/files/2019120202.sh 
 sh 2019120202.sh 
-sudo apt-get install onedrive
+sudo apt-get install onedrive -y
 # https://github.com/abraunegg/onedrive
 sleep 10
 reboot 
