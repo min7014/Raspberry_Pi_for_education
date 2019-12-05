@@ -45,17 +45,17 @@ sudo wget min7014.github.io/raspberrypi/files/2019112906.sh
 sh 2019112906.sh 
 #remmina 
 sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
-sh 2019112801.sh 
+sh 2019112801.sh
+#onedrive
+sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
+sh 2019120502.sh 
+# https://github.com/abraunegg/onedrive
 #texlive
 sudo wget min7014.github.io/raspberrypi/files/2019120201.sh 
 sh 2019120201.sh 
 #texmaker
 sudo wget min7014.github.io/raspberrypi/files/2019120202.sh 
 sh 2019120202.sh
-#onedrive
-sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
-sh 2019120502.sh 
-# https://github.com/abraunegg/onedrive
 #apt update 
 sudo wget min7014.github.io/raspberrypi/files/2019112901.sh 
 sh 2019112901.sh 
