@@ -18,10 +18,10 @@ echo    "****** remmina"
 sleep 1 
 echo    "****** onedrive"   
 sleep 1 
-echo    "****** texlive"   
-sleep 1 
-echo    "****** texmaker"   
-sleep 1 
+#echo    "****** texlive"   
+#sleep 1 
+#echo    "****** texmaker"   
+#sleep 1 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 sleep 10
@@ -50,17 +50,11 @@ sh 2019112801.sh
 sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
 sh 2019120502.sh 
 # https://github.com/abraunegg/onedrive
-#texlive
-sudo wget min7014.github.io/raspberrypi/files/2019120201.sh 
-sh 2019120201.sh 
-#texmaker
-sudo wget min7014.github.io/raspberrypi/files/2019120202.sh 
-sh 2019120202.sh
-#apt update 
-sudo wget min7014.github.io/raspberrypi/files/2019112901.sh 
-sh 2019112901.sh 
-#apt upgrade
-sudo wget min7014.github.io/raspberrypi/files/2019112902.sh 
-sh 2019112902.sh 
+##texlive
+#sudo wget min7014.github.io/raspberrypi/files/2019120201.sh 
+#sh 2019120201.sh 
+##texmaker
+#sudo wget min7014.github.io/raspberrypi/files/2019120202.sh 
+#sh 2019120202.sh
 sleep 10
 reboot 
