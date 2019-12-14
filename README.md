@@ -24,9 +24,6 @@ sh 2019111901.sh
 
 https://www.raspberrypi.org/
 
-http://www.rpi-emulator.com/
-
-
 
 
 *개별적으로
