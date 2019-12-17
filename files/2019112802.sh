@@ -18,10 +18,10 @@ echo    "****** remmina"
 sleep 1 
 echo    "****** onedrive"   
 sleep 1 
-#echo    "****** texlive"   
-#sleep 1 
-#echo    "****** texmaker"   
-#sleep 1 
+echo    "****** texlive"   
+sleep 1 
+echo    "****** Texworks"   
+sleep 1 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 sleep 10
@@ -50,11 +50,13 @@ sh 2019112801.sh
 sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
 sh 2019120502.sh 
 # https://github.com/abraunegg/onedrive
-##texlive
-#sudo wget min7014.github.io/raspberrypi/files/2019120201.sh 
-#sh 2019120201.sh 
-##texmaker
-#sudo wget min7014.github.io/raspberrypi/files/2019120202.sh 
-#sh 2019120202.sh
+#texlive
+sudo wget min7014.github.io/raspberrypi/files/2019120201.sh 
+sh 2019120201.sh 
+#texworks
+sudo wget min7014.github.io/raspberrypi/files/2019121704.sh 
+sh 2019121704.sh 
+# http://wiki.ktug.org/wiki/wiki.php/TeXworks
+
 sleep 10
 reboot 
