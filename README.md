@@ -100,3 +100,7 @@ sudo wget min7014.github.io/raspberrypi/files/2019120202.sh
 sh 2019120202.sh 
 
 #end
+
+관심가는 내용들
+
+https://statkclee.github.io/hpc/rpi-manual.html
