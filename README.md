@@ -8,6 +8,14 @@ Password : raspberry
 
 의 초기 암호 입력
 
+*이 스크립트는 한글과 크롬을 Texlive 설치하는 기본세팅이다.
+
+sudo wget min7014.github.io/raspberrypi/files/2019122802.sh
+
+sh 2019122802.sh
+
+
+
 
 *이 스크립트는 한글과 크롬을 설치하는 기본세팅이다.
 
