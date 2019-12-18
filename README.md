@@ -10,9 +10,9 @@ Password : raspberry
 
 *이 스크립트는 한글과 크롬을 Texlive 설치하는 기본세팅이다.
 
-sudo wget min7014.github.io/raspberrypi/files/201912802.sh
+sudo wget min7014.github.io/raspberrypi/files/2019121802.sh
 
-sh 201912802.sh
+sh 2019121802.sh
 
 
 
