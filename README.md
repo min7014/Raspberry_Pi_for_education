@@ -70,7 +70,13 @@ sudo wget min7014.github.io/raspberrypi/files/2019112801.sh
 
 sh 2019112801.sh 
 
+#onedrive
 
+sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
+
+sh 2019120502.sh 
+
+# https://github.com/abraunegg/onedrive
 
 #texlive
 
