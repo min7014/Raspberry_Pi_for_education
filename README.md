@@ -111,6 +111,10 @@ sh 2019121902.sh
 
 
 #ssh enalbe
+sudo systemctl enable ssh
+
+sudo systemctl start ssh
+
 
 sudo raspi-config
 
