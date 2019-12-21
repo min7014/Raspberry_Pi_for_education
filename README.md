@@ -106,6 +106,23 @@ sudo wget min7014.github.io/raspberrypi/files/2019121902.sh
 sh 2019121902.sh 
 
 #end
+
+
+
+
+#ssh enalbe
+
+sudo raspi-config
+
+7 Advanced Options 
+A4 SSH
+Yes
+OK
+
+Reboot
+
+
+
 관심가는 내용들
 
 https://statkclee.github.io/hpc/rpi-manual.html
