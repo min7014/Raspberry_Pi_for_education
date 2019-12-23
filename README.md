@@ -107,14 +107,14 @@ sh 2019121902.sh
 
 #end
 
-
+Reboot
 
 
 #ssh enalbe
+
 sudo systemctl enable ssh
 
 sudo systemctl start ssh
-
 
 sudo raspi-config
 
@@ -123,10 +123,10 @@ A4 SSH
 Yes
 OK
 
-Reboot
+#xrdp
 
-sudo apt-get update 
-sudo apt-get install -y xrdp 
+sudo apt-get install -y xrdp
+
 sudo service xrdp restart 
 
 
