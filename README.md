@@ -125,7 +125,12 @@ OK
 
 Reboot
 
+sudo apt-get update 
+sudo apt-get install -y xrdp 
+sudo service xrdp restart 
 
+
+출처: https://dayjms.tistory.com/entry/원격-데스트톱-연결-프로그램-설치-및-설정 [나의 일상]
 
 관심가는 내용들
 
