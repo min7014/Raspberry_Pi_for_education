@@ -16,6 +16,8 @@ echo    "****** ibus-hangul"
 sleep 1 
 echo    "****** remmina"   
 sleep 1 
+echo    "****** xrdp"   
+sleep 1 
 echo    "****** onedrive"   
 sleep 1 
 echo    "****** texlive"   
@@ -46,6 +48,9 @@ sh 2019112906.sh
 #remmina 
 sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
 sh 2019112801.sh
+#xrdp
+sudo wget min7014.github.io/raspberrypi/files/2019122401.sh
+sh 2019122401.sh
 #onedrive
 sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
 sh 2019120502.sh 
@@ -57,6 +62,7 @@ sh 2019120201.sh
 sudo wget min7014.github.io/raspberrypi/files/2019121704.sh 
 sh 2019121704.sh 
 # http://wiki.ktug.org/wiki/wiki.php/TeXworks
+
 
 sleep 10
 reboot 
