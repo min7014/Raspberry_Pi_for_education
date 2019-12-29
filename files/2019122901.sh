@@ -1,7 +1,5 @@
 rm 2019122901.sh -f
-sudo apt-get update
-sudo apt-get install python3-matplotlib
-sudo apt-get install python3-scipy
-sudo pip3 install --upgrade pip
-sudo reboot
+wget http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-armv7l.sh
+md5sum Miniconda3-latest-Linux-armv7l.sh
+bash Miniconda3-latest-Linux-armv7l.sh
 
