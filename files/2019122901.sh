@@ -1,12 +1,12 @@
 rm 2019122901.sh -f
 sudo apt-get install python3-pip -y
-sudo pip install chainer==1.19.0 
-sudo pip install scipy 
-sudo pip install h5py 
+pip3 install chainer==1.19.0 
+pip3 install scipy 
+pip3 install h5py 
 sudo apt-get install python-h5py 
 sudo apt-get install libopenjp2-7-dev 
 sudo apt-get install libtiff5 
-sudo pip3 install Pillow 
+pip3 install Pillow 
 sudo apt-get install espeak 
 sudo apt-get install python3-picamera 
 sudo apt-get install libatlas-base-devpy 
