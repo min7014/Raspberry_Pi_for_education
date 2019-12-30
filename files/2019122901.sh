@@ -16,3 +16,4 @@ cd chainer-caption
 bash download.sh
 wget https://raw.githubusercontent.com/yoshihiroo/programming-workshop/master/image_captioning_and_speech/image_captioning.py
 python3 image_captioning.py
+ 
