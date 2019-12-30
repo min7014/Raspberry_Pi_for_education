@@ -1,5 +1,5 @@
 rm 2019122901.sh -f
-sudo apt-get install python3-pip
+sudo apt-get install python3-pip -y
 sudo pip install chainer==1.19.0 
 sudo pip install scipy 
 sudo pip install h5py 
