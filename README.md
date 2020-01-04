@@ -30,8 +30,5 @@ sudo wget min7014.github.io/raspberrypi/files/2019122401.sh
 sh 2019122401.sh 
 
 
-출처: https://dayjms.tistory.com/entry/원격-데스트톱-연결-프로그램-설치-및-설정 [나의 일상]
-
-관심가는 내용들
 
 https://statkclee.github.io/hpc/rpi-manual.html
