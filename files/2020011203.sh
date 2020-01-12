@@ -17,4 +17,5 @@ sudo wget min7014.github.io/raspberrypi/files/2019121704.sh
 sh 2019121704.sh 
 # http://wiki.ktug.org/wiki/wiki.php/TeXworks
 
-sleep 10 
+
+sleep 10
