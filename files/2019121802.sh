@@ -2,9 +2,11 @@ rm 2019121802.sh -f
 echo    "*******************************************************************************"
 echo    "*******************************************************************************" 
 sleep 1 
-echo    "****** Basic setting"  
+echo    "****** [Basic setting]"  
+echo    "****** apt update, apt upgrade, desktop, chromium-browser, fonts-nanum, ibus-hangul, remmina, onedrive" 
 sleep 1 
-echo    "****** Tex"   
+echo    "****** [Tex]"   
+echo    "****** Texlive, Texworks"   
 sleep 1 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
