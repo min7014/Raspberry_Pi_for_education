@@ -4,9 +4,7 @@ echo    "***********************************************************************
 sleep 1 
 echo    "****** basic setting"  
 sleep 1 
-echo    "****** texlive"   
-sleep 1 
-echo    "****** Texworks"   
+echo    "****** tex"   
 sleep 1 
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
@@ -14,12 +12,9 @@ sleep 10
 #basic setting
 sudo wget min7014.github.io/raspberrypi/files/2020010205.sh 
 sh 2020010205.sh 
-#texlive
-sudo wget min7014.github.io/raspberrypi/files/2019120201.sh 
-sh 2019120201.sh 
-#texworks
-sudo wget min7014.github.io/raspberrypi/files/2019121704.sh 
-sh 2019121704.sh 
+#tex
+sudo wget min7014.github.io/raspberrypi/files/2020011203.sh 
+sh 2020011204.sh 
 # http://wiki.ktug.org/wiki/wiki.php/TeXworks
 
 sleep 10 
