@@ -14,7 +14,7 @@ sudo wget min7014.github.io/raspberrypi/files/2020010205.sh
 sh 2020010205.sh 
 #tex
 sudo wget min7014.github.io/raspberrypi/files/2020011203.sh 
-sh 2020011204.sh 
+sh 2020011203.sh 
 # http://wiki.ktug.org/wiki/wiki.php/TeXworks
 
 sleep 10 
