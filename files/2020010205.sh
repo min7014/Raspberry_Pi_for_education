@@ -18,6 +18,8 @@ echo    "****** ibus-hangul"
 sleep 1 
 echo    "****** remmina"   
 sleep 1 
+echo    "****** xrdp"   
+sleep 1 
 echo    "****** onedrive"   
 sleep 1 
 echo    "*******************************************************************************"
@@ -43,7 +45,10 @@ sudo wget min7014.github.io/raspberrypi/files/2019112906.sh
 sh 2019112906.sh 
 #remmina 
 sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
-sh 2019112801.sh
+sh 2019112801.sh 
+#xrdp
+sudo wget min7014.github.io/raspberrypi/files/2020032901.sh 
+sh 2020032901.sh 
 #onedrive
 sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
 sh 2019120502.sh 
