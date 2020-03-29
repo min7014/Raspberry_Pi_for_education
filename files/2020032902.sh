@@ -9,5 +9,5 @@ echo    "***********************************************************************
 sleep 10
 #rdate
 sudo apt-get install rdate -y
-
+sudo rdate -s time.bora.net
 sleep 10
