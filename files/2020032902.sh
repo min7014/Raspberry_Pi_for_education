@@ -10,4 +10,5 @@ sleep 10
 #rdate
 sudo apt-get install rdate -y
 sudo rdate -s time.bora.net
+date
 sleep 10
