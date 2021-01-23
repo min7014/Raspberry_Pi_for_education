@@ -1,4 +1,4 @@
-# [오류없는 자료를 만들려고 했지만, 혹시나 오탈자나 내용상 이상이 있는 부분이 있으면 카카오 오픈채팅으로 오류내용을 보내주시면 고맙겠습니다.I tried to make the data without errors, but if there are any typos or abnormalities in the content, please send me the error details via Kakao Open Chat.](https://open.kakao.com/o/s3m08dTb) 
+# [오류없는 자료를 만들려고 했지만, 혹시나 오탈자나 내용상 이상이 있는 부분이 있으면 카카오 오픈채팅으로 오류내용을 보내주시면 고맙겠습니다.(I tried to make the data without errors, but if there are any typos or abnormalities in the content, please send me the error details via Kakao Open Chat.)](https://open.kakao.com/o/s3m08dTb) 
 
 
 
