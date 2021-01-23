@@ -5,7 +5,7 @@
 라즈베리파이의 사용한 내용을 조금씩 만들어 가려고 함.
 (I try to make the contents of the Raspberry Pi little by little.)
 
-# [라즈베리파이 기본 세팅(Raspberry Pi default settings) : 나름 검증된 내용(Content that has been verified)](./files/2020010202.md) 
+# [* 라즈베리파이 기본 세팅(Raspberry Pi default settings) : 나름 검증된 내용(Content that has been verified)](./files/2020010202.md) 
 
 # 아래내용은 아직은 시행 착오중(The following is still under trial and error)
 
