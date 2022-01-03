@@ -70,3 +70,7 @@ sh 2019120502.sh
 sudo wget min7014.github.io/raspberrypi/files/2022010401.sh
 sh 2022010401.sh
 # https://code.visualstudio.com/docs/setup/raspberry-pi
+#python3
+sudo wget min7014.github.io/raspberrypi/files/2022010402.sh
+sh 2022010402.sh
+# https://projects.raspberrypi.org/en/projects/generic-python-install-python3#linux
