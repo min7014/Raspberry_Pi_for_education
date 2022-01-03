@@ -3,7 +3,8 @@ echo    "***********************************************************************
 echo    "*******************************************************************************" 
 sleep 1 
 echo    "****** [Basic Setting]"  
-echo    "****** apt update, apt upgrade, desktop, chromium-browser, fonts-nanum, ibus-hangul, remmina, onedrive, code, pathon3" 
+echo    "****** apt update, apt upgrade, desktop, chromium-browser, fonts-nanum,"
+echo    "****** ibus-hangul, remmina, onedrive, code, pathon3" 
 sleep 1 
 echo    "****** [Tex]"   
 echo    "****** Texlive, Texworks"   
