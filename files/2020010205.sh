@@ -21,7 +21,9 @@ echo    "****** ibus-hangul"
 sleep 1 
 echo    "****** remmina"   
 sleep 1 
-echo    "****** xrdp"   
+echo    "****** xrdp" 
+sleep 1  
+echo    "****** xscreensaver"   
 sleep 1 
 echo    "****** onedrive"   
 sleep 1 
@@ -45,8 +47,9 @@ sudo wget min7014.github.io/raspberrypi/files/2019112902.sh
 sudo sh 2019112902.sh
 #apt autoremove
 sudo wget min7014.github.io/raspberrypi/files/2020091301.sh 
-sudo sh 2020091301.sh
+sudo sh 2020091301.sh 
 #desktop
+#https://raspberrytips.com/upgrade-raspbian-lite-to-desktop/
 sudo wget min7014.github.io/raspberrypi/files/2019112903.sh 
 sudo sh 2019112903.sh 
 #chromium-browser
@@ -64,6 +67,9 @@ sudo sh 2019112801.sh
 #xrdp
 sudo wget min7014.github.io/raspberrypi/files/2020032901.sh 
 sudo sh 2020032901.sh 
+#xscreensaver
+sudo wget min7014.github.io/raspberrypi/files/2022102901.sh
+sudo sh 2022102901.sh
 #onedrive
 sudo wget min7014.github.io/raspberrypi/files/2019120502.sh 
 sudo sh 2019120502.sh 
