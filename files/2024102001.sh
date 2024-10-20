@@ -9,7 +9,7 @@ sleep 5
 sudo apt update -y
 sudo apt full-upgrade -y
 sudo git clone https://github.com/Botspot/pi-apps
-sudo ~/pi-apps/install
+~/pi-apps/install
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
