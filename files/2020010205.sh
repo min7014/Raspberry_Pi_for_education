@@ -80,3 +80,6 @@ sudo sh 2022010402.sh
 #libwidevinecdm0 for Netflex
 sudo wget min7014.github.io/raspberrypi/files/2022010901.sh
 sudo sh 2022010901.sh
+#pi-apps
+sudo wget min7014.github.io/raspberrypi/files/2024102001.sh
+sudo sh 2024102001.sh
