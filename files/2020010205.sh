@@ -31,8 +31,6 @@ echo    "****** python3"
 sleep 1
 echo    "****** libwidevinecdm0 for Netflex"   
 sleep 1
-echo    "****** pi-apps"   
-sleep 1
 echo    "*******************************************************************************"
 echo    "*******************************************************************************"
 sleep 10
@@ -82,6 +80,3 @@ sudo sh 2022010402.sh
 #libwidevinecdm0 for Netflex
 sudo wget min7014.github.io/raspberrypi/files/2022010901.sh
 sudo sh 2022010901.sh
-#pi-apps
-sudo wget min7014.github.io/raspberrypi/files/2024102001.sh
-sudo sh 2024102001.sh
