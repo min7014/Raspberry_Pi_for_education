@@ -19,8 +19,6 @@ echo    "****** fonts-nanum"
 sleep 1 
 echo    "****** ibus-hangul"   
 sleep 1 
-echo    "****** remmina"   
-sleep 1 
 echo    "****** xrdp" 
 sleep 1  
 echo    "****** xscreensaver"   
@@ -61,9 +59,6 @@ sudo sh 2019112905.sh
 #ibus-hangul
 sudo wget min7014.github.io/raspberrypi/files/2019112906.sh 
 sudo sh 2019112906.sh 
-#remmina 
-sudo wget min7014.github.io/raspberrypi/files/2019112801.sh 
-sudo sh 2019112801.sh 
 #xrdp
 sudo wget min7014.github.io/raspberrypi/files/2020032901.sh 
 sudo sh 2020032901.sh 
